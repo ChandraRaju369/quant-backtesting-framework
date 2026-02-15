@@ -1,3 +1,5 @@
+# Backtesting engine entry point
+
 import pandas as pd
 from backtesting import Backtest
 from src.backtesting.backtest import BacktestEngine
